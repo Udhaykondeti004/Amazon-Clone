@@ -19,7 +19,7 @@
     width: 100px;
 }
 .logo{
-    background-image:url("images/amazon_logo.png");
+    background-image:url("Images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -208,6 +208,9 @@ footer{
     align-items: center;
     font-size: 0.85rem;
 }
+.foot-panel1 a{
+    color:white;
+}
 
 .foot-panel2{
     background-color: #222f3d;
@@ -241,7 +244,7 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image:url("images/amazon_logo.png");
+    background-image:url("Images/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
